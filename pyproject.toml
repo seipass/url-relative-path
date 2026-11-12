@@ -1,0 +1,8 @@
+[project]
+name = "url-relative-path"
+version = "0.1.0"
+description = "Resolve a URL reference against a base"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
